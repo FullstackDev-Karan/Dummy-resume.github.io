@@ -537,36 +537,3 @@ opacity:0.9;
 }
 
 
-
-/* font settings */
-
-h1, .h1 {
-    font-size: 49px;
-}
-
-
-small, .small {
-    font-size: 121%;
-}
-
-p {
-    margin: 0 0 10px;
-    font-size: 17px;
-}
-
-.bs-callout-danger h4 {
-    color: #d9534f;
-    font-size: 25px;
-}
-
-th {
-    font-size: 20px;
-}
-td {
-    font-size: 15px;
-}
-
-
-.progress-bar span{
-	font-size: 15px;
-}
