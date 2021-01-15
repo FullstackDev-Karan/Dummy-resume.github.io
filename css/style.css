@@ -370,14 +370,14 @@ html { height: 100%;}
 
 }
 .socialicons ul li{
-	margin-left: 20px;
+	margin: 14px;
 	
 }
 .btn-social{
   color: white;
   opacity:0.9;
-  padding: 5px 22px;
-  font-size: 25px;
+  font-size: 20px;
+  padding: 0px 25px;
   
   
 }
